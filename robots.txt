@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fmerni.github.io/sqG/sitemap.sqG.gz
